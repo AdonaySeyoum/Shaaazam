@@ -1,0 +1,5 @@
+# AI Video Detector - MVP Requirements
+
+streamlit>=1.28.0
+Pillow>=10.0.0
+requests>=2.31.0
